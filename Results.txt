@@ -1,0 +1,30 @@
+#Blst,Stp,Rtrc,Clng,Stmpd
+6,10,Nan,19,Nan
+8,13,Nan,28,Nan
+6,7,Nan,Nan,14
+19,27,31,Nan,Nan
+7,13,Nan,Nan,22
+5,10,Nan,Nan,24
+5,8,Nan,Nan,16
+11,14,Nan,15,Nan
+#second acquisition
+6,14,Nan,Nan,63
+24,27,Nan,Nan,39
+#211014_Fonticula_tickling_l488-20_10ms_40x_8_Brightfield.stk
+6,12,17,Nan,Nan
+16,26,Nan,Nan,55
+#211014_Fonticula_tickling_l488-20_10ms_40x_9_Brightfield.stk
+10,20,Nan,Nan,90
+6,23,30,Nan,Nan
+#211014_Fonticula_tickling_l488-20_10ms_40x_10_Brightfield.stk
+6,10,Nan,Nan,34 #a new leader formas at 34, it moves a bit, then more cycling, then new leader
+12,15,Nan,27,Nan
+#211014_Fonticula_tickling_l488-20_10ms_40x_11_Brightfield.stk
+7,10,Nan,Nan,46
+#211014_Fonticula_tickling_l488-20_10ms_40x_12_Brightfield.stk
+6,8,Nan,25,Nan
+#211014_Fonticula_tickling_l488-20_10ms_40x_13_Brightfield.stk
+7,18,Nan,Nan,83
+#211014_Fonticula_tickling_l488-20_10ms_40x_14_Brightfield.stk
+6,8,Nan,23,Nan
+
